@@ -1,0 +1,12 @@
+export { AboutSection } from "./AboutSection";
+export { CategoriesSection } from "./CategoriesSection";
+export { CollectionSection } from "./CollectionSection";
+export { DifferentialsSection } from "./DifferentialsSection";
+export { FaqSection } from "./FaqSection";
+export { FinalCta } from "./FinalCta";
+export { FloatingWhatsApp } from "./FloatingWhatsApp";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { Hero } from "./Hero";
+export { InstagramSection } from "./InstagramSection";
+export { RomperSection } from "./RomperSection";
